@@ -1,4 +1,4 @@
-# Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors (CVPR 2022)
+# Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment (CVPR 2023)
 
 <h2 align="center"><a href="https://mabaorui.github.io/">Personal Web Pages</a> | <a href="https://arxiv.org/abs/2204.10603">Paper</a> | <a href="https://mabaorui.github.io/-OnSurfacePrior_project_page/">Project Page</a></h2>
 
