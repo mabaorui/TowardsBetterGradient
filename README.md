@@ -32,7 +32,7 @@ https://github.com/mabaorui/PredictableContextPrior
 
 ## Demo
 <p align="left">
-  <img src="img/towards.png" width="780" />
+  <img src="img/towards1.png" width="780" />
 </p>
 
 <p align="left">
